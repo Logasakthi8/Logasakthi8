@@ -78,7 +78,7 @@ I'm a computer science student💻. I'm interested to learn new technology like 
 ## Github Status  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Logasakthi&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=Logasakthi8&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="50%">
 
@@ -100,5 +100,4 @@ I'm a computer science student💻. I'm interested to learn new technology like 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
