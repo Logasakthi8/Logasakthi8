@@ -72,7 +72,15 @@ I'm a computer science student💻. I'm interested to learn new technology like 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>  
 
-<br/>  
+<br/> 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=logasakthi8&label=Profile%20views&color=0e75b6&style=flat" alt="logasakthi8" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logasakthi8" alt="logasakthi8" /></a> </p>
+
+<p align="left">
+</p>
 
 
 ## Github Status  
