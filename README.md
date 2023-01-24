@@ -7,7 +7,7 @@
 
 
 ### Glad to see you here!  
-I'm a computer science student💻. I'm interested to learn new technology like AI, ML, CV and DL etc... and also do project in that technology. I' m enthusiastic to work on real world projects so I eager to contribute open source platform.   
+I'm a computer science student💻. I'm interested to learn new technology like web development and Blockchain etc... and also do project in that technology. I' m enthusiastic to work on real world projects so I eager to contribute open source platform.   
   
 
 
@@ -15,9 +15,6 @@ I'm a computer science student💻. I'm interested to learn new technology like 
 ### Connect with me  
 <a href="https://github.com/Logasakthi8" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/logasakthi7" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/loga-sakthi-47b379231" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -79,20 +76,16 @@ I'm a computer science student💻. I'm interested to learn new technology like 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logasakthi8" alt="logasakthi8" /></a> </p>
 
+
 <p align="left">
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logasakthi8&show_icons=true&locale=en&layout=compact" alt="logasakthi8" /></p>
 
-## Github Status  
-<table><tr><td valign="top" width="50%">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logasakthi8&show_icons=true&locale=en" alt="logasakthi8" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Logasakthi8&show_icons=true&count_private=true&hide_border=true" align="left" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logasakthi8&" alt="logasakthi8" /></p>
 
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logasakthi8&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table>  
 
 <br/>  
 
