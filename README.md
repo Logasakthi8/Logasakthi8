@@ -71,18 +71,17 @@ I'm a computer science student💻. I'm interested to learn new technology like 
 
 <br/> 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logasakthi8&label=Profile%20views&color=0e75b6&style=flat" alt="logasakthi8" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logasakthi8" alt="logasakthi8" /></a> </p>
+<h2>GitHub Status</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logasakthi8&show_icons=true&locale=en" alt="logasakthi8" /></p>
 
 
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logasakthi8&show_icons=true&locale=en&layout=compact" alt="logasakthi8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logasakthi8&show_icons=true&locale=en" alt="logasakthi8" /></p>
+<h2>Trophys Earned</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logasakthi8" alt="logasakthi8" /></a> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logasakthi8&" alt="logasakthi8" /></p>
 
@@ -93,8 +92,8 @@ I'm a computer science student💻. I'm interested to learn new technology like 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Logasakthi8&&style=flat-square)  
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=logasakthi8&label=Profile%20views&color=0e75b6&style=flat" alt="logasakthi8" /> </p>
+
 
 <br/>  
 
