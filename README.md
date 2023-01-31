@@ -30,10 +30,10 @@ I'm a computer science student💻. I'm interested to learn new technology like 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently learn CV and DL  
+- 🔭 I’m currently learn webdevelopment and blockchain
   
 
-- ❓ Ask me about anything related technologies like CV, ML, and DL.  
+- ❓ Ask me about anything related technologies like webdevelopment 
   
 
 - 😊 I keep smile always  
