@@ -9,95 +9,30 @@
 ### Glad to see you here!  
 I'm a computer science student💻. I'm interested to learn new technology like web development and Blockchain etc... and also do project in that technology. I' m enthusiastic to work on real world projects so I eager to contribute open source platform.   
   
+# 💫 About Me:
+ 🔭  I’m currently learn web development <br> ❓  Ask me about anything related technologies like web development <br> 😊  I keep smile always  <br> 💻   I eager to code  
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myselflogasakthi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loga-sakthi-47b379231) 
 
-### Connect with me  
-<a href="https://github.com/Logasakthi8" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/loga-sakthi-47b379231" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/myselflogasakthi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Logasakthi8&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Logasakthi8&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Logasakthi8&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Logasakthi8&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Logasakthi8&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently learn webdevelopment and blockchain
-  
+---
+[![](https://visitcount.itsvg.in/api?id=Logasakthi8&icon=0&color=11)](https://visitcount.itsvg.in)
 
-- ❓ Ask me about anything related technologies like webdevelopment 
-  
-
-- 😊 I keep smile always  
-  
-
--    💻   I eager to code  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>  
-
-<br/> 
-
-<h2>GitHub Status</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Logasakthi8&show_icons=true&locale=en" alt="logasakthi8" /></p>
-
-
-<p align="left">
-</p>
-
-
-<h2>Trophys Earned</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Logasakthi8" alt="logasakthi8" /></a> </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Logasakthi8&" alt="logasakthi8" /></p>
-
-
-<br/>  
-
-  
-
-<br/>  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Logasakthi8&label=Profile%20views&color=0e75b6&style=flat" alt="logasakthi8" /> </p>
-
-
-<br/>  
-
-
-<br />
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
