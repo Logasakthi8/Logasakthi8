@@ -1,13 +1,13 @@
 ## Hey 👋, I'm Loga Sakthi!  
   
 
-<img src="https://media.istockphoto.com/id/1206796363/photo/ai-machine-learning-hands-of-robot-and-human-touching-on-big-data-network-connection.jpg?s=612x612&w=0&k=20&c=xIX5Bz7h50B83cCZG_gXkyZSOu-mG93DtOcNK7RNEAo=" align="left" height="300" width="1100" />  
+<img src="https://www.shutterstock.com/shutterstock/photos/1955634814/display_1500/stock-photo-web-development-and-coding-concept-web-banner-with-copy-space-on-purple-background-flat-lay-1955634814.jpg" align="left" height="300" width="1100" />  
   
 
 
 
 ### Glad to see you here!  
-I'm a computer science student💻. I'm interested to learn new technology like web development and Blockchain etc... and also do project in that technology. I' m enthusiastic to work on real world projects so I eager to contribute open source platform.   
+I'm a computer science student💻. I'm interested to learn technology like web development and also do project in that technology. I' m enthusiastic to work on real world projects so I eager to contribute open source platform.   
   
 # 💫 About Me:
  🔭  I’m currently learn web development <br> ❓  Ask me about anything related technologies like web development <br> 😊  I keep smile always  <br> 💻   I eager to code  
